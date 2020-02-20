@@ -4,7 +4,6 @@ import {BootstrapTable, TableHeaderColumn} from 'react-bootstrap-table';
 import 'react-bootstrap-table/dist/react-bootstrap-table-all.min.css';
 import Favicon from 'react-favicon';
 import favicon from '../assets/favicon.ico'
-import Login from '../Common/Login.js'
 import store from 'store';
 class BSTable extends React.Component {
   render() {

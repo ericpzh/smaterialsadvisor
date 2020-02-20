@@ -6,7 +6,6 @@ import './App.css';
 import 'semantic-ui-css/semantic.min.css';
 import Favicon from 'react-favicon';
 import favicon from './assets/favicon.ico'
-import Login from './Common/Login.js'
 import store from 'store';
 
 class App extends Component {

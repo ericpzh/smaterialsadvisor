@@ -7,7 +7,6 @@ import {Sidebar, Segment, Menu, Icon, Button, Dimmer, Loader  } from 'semantic-u
 import Header from '../Common/Header.js';
 import Favicon from 'react-favicon';
 import favicon from '../assets/favicon.ico'
-import Login from '../Common/Login.js'
 import store from 'store';
 import 'semantic-ui-css/semantic.min.css';
 
