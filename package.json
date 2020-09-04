@@ -10,7 +10,7 @@
     "install": "^0.12.2",
     "mathjs": "^5.5.0",
     "npm": "^6.8.0",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "plotly.js": "^1.45.0",
     "react": "^16.12.0",
     "react-bootstrap-table": "^4.3.1",
